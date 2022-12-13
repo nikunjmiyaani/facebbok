@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783346360853",
+    "project_id": "fir-1dc0d",
+    "storage_bucket": "fir-1dc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783346360853:android:8ab2fc8f131e1fe1dee41c",
+        "android_client_info": {
+          "package_name": "com.example.facebbok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783346360853-76bj6frch1f9am74h3duh04n2nn06sd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebbok",
+            "certificate_hash": "daa91b972c695f82b1b2f72d0ddb65e9570053ed"
+          }
+        },
+        {
+          "client_id": "783346360853-m56gfr74llhkjtk7fk2gfgqiatrp0smn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCwwBUdPdQOSRFDbhBmXJ9a4r5YYn4Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783346360853-m56gfr74llhkjtk7fk2gfgqiatrp0smn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
