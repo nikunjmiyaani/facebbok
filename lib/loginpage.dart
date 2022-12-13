@@ -17,7 +17,7 @@ class login extends StatelessWidget {
               onPressed: () {
                 controllar.googlelogin;
               },
-              child: Text('googe'))
+              child: Text('googlaae')),
         ],
       ),
     );
